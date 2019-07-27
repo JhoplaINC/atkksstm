@@ -1,0 +1,61 @@
+body{
+    margin:0;
+    padding:0;
+    background: linear-gradient(rgb(10, 100, 0) 0%, rgb(255, 255, 255) 100%);
+    background-repeat: no-repeat;
+}
+
+.navbar{background-color: rgb(50, 200, 10);margin-bottom:2%}
+
+.acx{
+    background-color: rgb(100, 200, 100);
+}
+
+.nav-item{margin-right: 1%!important}
+
+textarea{
+    margin-left: 1%;
+    min-height: 100px;
+    max-height: 250px;
+}
+
+h2, button{
+    margin-left: 1%;
+}
+
+#habn{
+}
+
+.assa{
+    font-size: 18px;
+    color:rgb(255, 255, 255);
+    background-color:rgb(100, 150, 10);
+    text-align: justify;
+}
+
+img{
+    width:100%;
+    height:100%;
+}
+
+#footer {
+    padding-top: 1%;
+    height: 60px;
+    background-color: rgb(50, 200, 10);
+    margin-top:2%;
+}
+
+#lefto{
+    width:50%;
+    text-align:right;
+    float:left;
+    border-right: 3px solid black;
+    padding-right:1%;
+}
+
+#raito{
+    width:50%;
+    text-align:left;
+    float: right;
+    padding-left: 1%;
+}
